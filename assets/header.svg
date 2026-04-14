@@ -10,5 +10,5 @@
   <!-- Static wave (no SMIL/CSS animation) for fast paint -->
   <path fill="url(#linear)" d="M0 0 L0 110 Q213.5 150 427 120 T854 145 L854 0 Z"/>
   <path fill="url(#linear)" opacity="0.35" d="M0 0 L0 128 Q213.5 95 427 118 T854 132 L854 0 Z"/>
-  <text text-anchor="middle" x="427" y="68" fill="#ecfdf5" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700">Backend &amp; Systems</text>
+  <text text-anchor="middle" x="427" y="68" fill="#ecfdf5" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700">AI Backend &amp; Systems</text>
 </svg>
