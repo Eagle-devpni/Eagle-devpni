@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 110" width="854" height="110" role="img" aria-label="Footer wave">
+  <defs>
+    <linearGradient id="foot" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d9488"/>
+      <stop offset="55%" stop-color="#115e59"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#foot)" d="M0 0 Q213.5 38 427 22 T854 28 L854 110 L0 110 Z"/>
+</svg>
